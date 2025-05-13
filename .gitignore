@@ -3,6 +3,7 @@
 /classes
 /checkouts
 pom.xml
+.clj-kondo
 *.jar
 *.class
 /.lein-*
